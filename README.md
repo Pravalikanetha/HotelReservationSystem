@@ -1,5 +1,3 @@
-I'd be glad to create a comprehensive README file for your Java hotel reservation system, incorporating the best aspects of the provided responses and addressing potential shortcomings:
-
 Hotel Reservation System
 
 This Java program implements a command-line interface for a hotel reservation system, allowing users to manage reservations through a MySQL database.
